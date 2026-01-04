@@ -46,7 +46,7 @@ BLOCK_KEYWORDS = [
 # 4. 頻道排序優先級 (越上面越靠前)
 ORDER_KEYWORDS = [
     "翡翠", "無線新聞", "明珠", "J2", "J5", "財經",  # TVB系列
-    "ViuTV", "ViuTV 6", "ViuTVsix",               # Viu系列
+    "ViuTV", "Viutv", "VIUTV", "ViuTV 6", "ViuTVsix",  # Viu系列
     "HOY", "奇妙", "有線",                         # HOY/Cable系列
     "港台電視31", "RTHK 31",                      # RTHK系列
     "港台電視32", "RTHK 32",
