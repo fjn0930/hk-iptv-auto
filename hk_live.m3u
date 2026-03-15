@@ -1,15 +1,19 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-# Update: 2026-03-15 03:21:50
+# Update: 2026-03-15 13:11:10
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/qrfbg
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
+http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/GeWKr
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/TVB翡翠台.png",TVB翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/TVB翡翠台 1080P.png",TVB翡翠台 1080P
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台4K.png",翡翠台4K
@@ -21,9 +25,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$LR•IPV4『线路10』
-#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
-http://8.138.7.223/tv/gdmzyd.php?id=1$LR•IPV4『线路20』
+https://cdn.163189.xyz/live/fct4k/stream.m3u8$LR•IPV4『线路16』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$LR•IPV4『线路26』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
@@ -36,6 +38,10 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0401&tk=2aca1ad9a849$LR•IPV4『线�
 http://fm1077.serv00.net/Smart.php?id=jade_twn$LR•IPV4『线路41』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/無線新聞.png",無線新聞
 http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/TVB無線新聞.png",TVB無線新聞
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/無線新聞台.png",無線新聞台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/無線新聞台.png",無線新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
@@ -44,6 +50,8 @@ http://r.jdshipin.com/ZQ4kN
 http://r.jdshipin.com/jUx8K
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
 http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/TVB明珠台.png",TVB明珠台
+http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
@@ -52,10 +60,16 @@ http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$LR•IPV4
 http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/ViuTV.png",ViuTV
 http://r.jdshipin.com/vSJvl
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/ViuTV.png",ViuTV
+http://r.jdshipin.com/TcKr2
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/Viutv.png",Viutv
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/Viutv.png",Viutv
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/Viutv.png",Viutv
 https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs$LR•IPV4『线路2』
+#EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/VIUTV.png",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/VIUTV.png",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 group-title="Hong Kong" logo="https://epg.112114.xyz/logo/HOY TV.png",HOY TV
